@@ -129,3 +129,46 @@ body {
     font-size: 20px;
   }
 
+
+  .sec4 {
+    background-color: white;
+    padding-top: 80px;
+    padding-bottom: 80px;;
+  }
+
+  .action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#3882F6;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin: 0 300px 0 300px;
+    border-radius: 10px;
+
+  }
+  .action button {
+    margin-right: 80px;
+    background-color: #3882F6;
+    border: 2px solid white;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 40px 10px 40px;
+    font-size: 18px;
+    font-weight: 900;
+  }
+
+  .act_text {
+    padding-right: 200px;
+  }
+  .act_text .call {
+    color: #E5E7EB;
+    font-size: 25px;
+    font-weight: 900;
+  }
+
+  .act_text .sign-text {
+    font-size: 20px;
+    color: #E5E7EB;
+  }
+
