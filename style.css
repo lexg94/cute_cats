@@ -134,11 +134,13 @@ body {
     font-size: 20px;
   }
 
-
   .sec4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: white;
     padding-top: 80px;
-    padding-bottom: 80px;;
+    padding-bottom: 80px;
   }
 
   .action {
@@ -148,8 +150,8 @@ body {
     background-color:#3882F6;
     padding-top: 60px;
     padding-bottom: 60px;
-    margin: 0 300px 0 300px;
     border-radius: 10px;
+    padding-left: 100px;
 
   }
   .action button {
